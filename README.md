@@ -8,4 +8,4 @@ Problem Statement:  Consider a real estate company that has a dataset containing
 * To know the accuracy of the model, i.e. how well these variables can predict house prices.
 
 
-[View Full Code](https://nbviewer.jupyter.org/github/AnkitDroidGit/House-Price-Prediction/blob/master/House_Price_Prediction_Mutilinear_Regression.ipynb)
+[View Full Code](https://nbviewer.jupyter.org/github/AnkitDroidGit/Delhi-House-Price-Prediction/blob/master/House_Price_Prediction_Mutilinear_Regression.ipynb)
