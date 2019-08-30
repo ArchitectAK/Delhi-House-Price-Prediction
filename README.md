@@ -1,6 +1,6 @@
 # Prediction
 
-kaggle competition code
+### kaggle compxetition code
 
 Problem Statement:  Consider a real estate company that has a dataset containing the prices of properties in the Delhi region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.  Essentially, the company wants — 
 * To identify the variables affecting house prices, e.g. area, number of rooms, bathrooms, etc. 
